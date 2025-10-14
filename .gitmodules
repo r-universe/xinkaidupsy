@@ -5,3 +5,7 @@
 [submodule "IVPP"]
 	path = IVPP
 	url = https://github.com/xinkaidupsy/ivpp
+[submodule "psychonetrics"]
+	path = psychonetrics
+	url = https://github.com/sachaepskamp/psychonetrics
+	registered = false
